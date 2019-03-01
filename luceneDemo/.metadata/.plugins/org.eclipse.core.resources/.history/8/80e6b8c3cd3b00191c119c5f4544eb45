@@ -1,0 +1,5 @@
+package lucene.chapter2.fieldType;
+
+public class CreateIndex {
+
+}
